@@ -1,5 +1,5 @@
-# BayAreaWildFireInfo
-Useful links to find resources and information related the ongoing wildfire incidents in and around Bay Area.
+# BayAreaWildFireInfo Aug 2020
+Useful links to find resources and information related to the ongoing wildfire incidents in and around Bay Area.
 ```
 Information purposes only. Links and location could change over time
 ```
