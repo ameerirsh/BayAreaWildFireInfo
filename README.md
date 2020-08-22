@@ -7,14 +7,20 @@ Information purposes only. Links and location could change over time
 ## Cal Fire Incident information and map
 https://www.fire.ca.gov/incidents/
 
-### Google Maps SCU Lightning Complex Fires
-https://www.google.com/maps/@37.4479421,-121.5182292,9z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn6scznf
+### SCU Lightning Complex Fires
+Details and Evacuation Orders https://www.fire.ca.gov/incidents/2020/8/18/scu-lightning-complex/
 
-### Google Maps LNU Lightning Complex Fires
-https://www.google.com/maps/@38.6254363,-122.641282,9z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn6hf5th
+Google Maps https://www.google.com/maps/@37.4479421,-121.5182292,9z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn6scznf
 
-### Google Maps CZU Lightning Complex Fires
-https://www.google.com/maps/@37.2613287,-122.5202435,10z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn8bpg_6
+### LNU Lightning Complex Fires
+Details and Evacuation Orders https://www.fire.ca.gov/incidents/2020/8/17/lnu-lightning-complex-includes-hennessey-gamble-15-10-spanish-markley-13-4-11-16-walbridge/
+
+Google Maps https://www.google.com/maps/@38.6254363,-122.641282,9z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn6hf5th
+
+### CZU Lightning Complex Fires
+Details and Evacuation Orders https://www.fire.ca.gov/incidents/2020/8/17/czu-lightning-complex/
+
+Google Ms https://www.google.com/maps/@37.2613287,-122.5202435,10z/data=!3m1!4b1!4m3!15m2!1m1!1s%2Fg%2F11kn8bpg_6
 
 ### Social media
 Cal Fire Twitter: https://twitter.com/cal_fire
