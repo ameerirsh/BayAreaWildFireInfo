@@ -24,6 +24,7 @@ Google Maps https://www.google.com/maps/@37.2613287,-122.5202435,10z/data=!3m1!4
 
 ### Social media
 Cal Fire Twitter: https://twitter.com/cal_fire
+Cal Fire Santa Clara Unit : https://twitter.com/calfirescu
 
 NWS Bay Area: https://twitter.com/NWSBayArea
 
